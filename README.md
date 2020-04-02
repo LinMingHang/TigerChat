@@ -1,5 +1,3 @@
 # TigerChat
 
-[项目介绍]([http://baidu.com](https://links.jianshu.com/go?to=http%3A%2F%2Fbaidu.com))
-
-Netty+SpringBoot+FastDFS+MUI 实现聊天App(后端代码)
+## [项目介绍](https://blog.csdn.net/qq_42493970/category_9865605.html)
